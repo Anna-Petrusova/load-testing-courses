@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IW:\J-meter_and_projects\Loadrunner_proj\scripts_tasks\4_Task_View_Itinerary
+-IW:\Program Files (x86)\HPE\LoadRunner\include
+-ew:\j-meter_and_projects\loadrunner_proj\scripts_tasks\4_task_view_itinerary\\logfile.log
+w:\j-meter_and_projects\loadrunner_proj\scripts_tasks\4_task_view_itinerary\\combined_4_Task_View_Itinerary.c
+w:\j-meter_and_projects\loadrunner_proj\scripts_tasks\4_task_view_itinerary\\pre_cci.c

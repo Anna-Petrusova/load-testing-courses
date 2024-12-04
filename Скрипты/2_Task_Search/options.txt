@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IW:\J-meter_and_projects\Loadrunner_proj\scripts_tasks\2_Task_Search
+-IW:\Program Files (x86)\HPE\LoadRunner\include
+-ew:\j-meter_and_projects\loadrunner_proj\scripts_tasks\2_task_search\\logfile.log
+w:\j-meter_and_projects\loadrunner_proj\scripts_tasks\2_task_search\\combined_2_Task_Search.c
+w:\j-meter_and_projects\loadrunner_proj\scripts_tasks\2_task_search\\pre_cci.c

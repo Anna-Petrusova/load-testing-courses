@@ -1,0 +1,42 @@
+[
+    {
+        "transactionName": "open_homepage",
+        "rawStartTime": 1733332442485,
+        "rawEndTime": 1733332442836
+    },
+    {
+        "transactionName": "login",
+        "rawStartTime": 1733332442888,
+        "rawEndTime": 1733332443048
+    },
+    {
+        "transactionName": "open_Flights_page",
+        "rawStartTime": 1733332443074,
+        "rawEndTime": 1733332443412
+    },
+    {
+        "transactionName": "choose_Flight_param",
+        "rawStartTime": 1733332443464,
+        "rawEndTime": 1733332443589
+    },
+    {
+        "transactionName": "choose_Flight",
+        "rawStartTime": 1733332443605,
+        "rawEndTime": 1733332443715
+    },
+    {
+        "transactionName": "submit_data",
+        "rawStartTime": 1733332443748,
+        "rawEndTime": 1733332443861
+    },
+    {
+        "transactionName": "logout",
+        "rawStartTime": 1733332443887,
+        "rawEndTime": 1733332444036
+    },
+    {
+        "transactionName": "3_Task_Booking",
+        "rawStartTime": 1733332442470,
+        "rawEndTime": 1733332444062
+    }
+]

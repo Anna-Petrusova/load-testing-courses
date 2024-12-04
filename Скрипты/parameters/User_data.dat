@@ -1,0 +1,11 @@
+login,password,First Name,Last Name,Street Address,City/ZIP,creditCard,expDate
+Sharikov,p@ssw0rd,Ivan,Sharikov,Leninskiy prospekt,Moskva,101000,987
+Gagarin,yuri1961,Yuri,Gagarin,Tverskaya ulitsa,Kaliningrad,236000,957
+Balbes,password@123,Vladimir,Balbes,Presnenskaya naberezhnaya,Sankt-Peterburg,190000,287
+Stirlitz,topsecret,Semyon,Stirlitz,Arbatskaya ulitsa,Vladivostok,690000,007
+Kozodoev,securepass123,Ilya,Kozodoev,Lesnaya ulitsa,Ekaterinburg,620000,900
+Shurik,shurikipops40,Aleksandr,Shurik,Petrovka,Kazan,420000,987
+Vodkin,artistfarfaraway,Andrey,Vodkin,Koltsevaya ulitsa,Nizhniy Novgorod,603000,917
+Borman,kosm0s007,Kirill,Borman,Sadovaya ulitsa,Samara,443000,987
+Prostokvashino,malish123,Tatyana,Prostokvashino,Vokzalnaya ulitsa,Omsk,644000,987
+Petrovich,schoolrules,Dmitri,Petrovich,Pobedy ulitsa,Rostov-na-Donu,344000,123

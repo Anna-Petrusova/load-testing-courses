@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Wed, 04 Dec 2024 17:14:03 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: Tue, 03 Dec 2024 17:14:03 GMT
+Set-Cookie: MTUserInfo=firstName&Ivan&username&Sharikov&address2&Moskva&hash&22&address1&Leninskiy%20prospekt&lastName&Sharikov%0A; path=/
+Keep-Alive: timeout=5, max=91
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+

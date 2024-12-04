@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IW:\J-meter_and_projects\Loadrunner_proj\scripts_tasks\3_Task_Booking
+-IW:\Program Files (x86)\HPE\LoadRunner\include
+-ew:\j-meter_and_projects\loadrunner_proj\scripts_tasks\3_task_booking\\logfile.log
+w:\j-meter_and_projects\loadrunner_proj\scripts_tasks\3_task_booking\\combined_3_Task_Booking.c
+w:\j-meter_and_projects\loadrunner_proj\scripts_tasks\3_task_booking\\pre_cci.c

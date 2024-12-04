@@ -1,0 +1,32 @@
+[
+    {
+        "transactionName": "open_homepage",
+        "rawStartTime": 1733332530280,
+        "rawEndTime": 1733332530636
+    },
+    {
+        "transactionName": "open_signuppage",
+        "rawStartTime": 1733332530656,
+        "rawEndTime": 1733332530788
+    },
+    {
+        "transactionName": "add_register_data",
+        "rawStartTime": 1733332530829,
+        "rawEndTime": 1733332530937
+    },
+    {
+        "transactionName": "open_intro_page",
+        "rawStartTime": 1733332530958,
+        "rawEndTime": 1733332531115
+    },
+    {
+        "transactionName": "logout",
+        "rawStartTime": 1733332531156,
+        "rawEndTime": 1733332531295
+    },
+    {
+        "transactionName": "6_Task_Register",
+        "rawStartTime": 1733332530255,
+        "rawEndTime": 1733332531312
+    }
+]

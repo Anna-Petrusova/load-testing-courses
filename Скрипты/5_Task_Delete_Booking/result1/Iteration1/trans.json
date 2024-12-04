@@ -1,0 +1,27 @@
+[
+    {
+        "transactionName": "open_homepage",
+        "rawStartTime": 1733332290958,
+        "rawEndTime": 1733332291333
+    },
+    {
+        "transactionName": "login",
+        "rawStartTime": 1733332291385,
+        "rawEndTime": 1733332291544
+    },
+    {
+        "transactionName": "open_Itinerary_list",
+        "rawStartTime": 1733332291560,
+        "rawEndTime": 1733332291810
+    },
+    {
+        "transactionName": "logout",
+        "rawStartTime": 1733332291836,
+        "rawEndTime": 1733332291985
+    },
+    {
+        "transactionName": "5_Task_Delete_Booking",
+        "rawStartTime": 1733332290937,
+        "rawEndTime": 1733332292005
+    }
+]

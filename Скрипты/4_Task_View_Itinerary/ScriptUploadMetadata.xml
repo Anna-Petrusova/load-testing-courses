@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VugenScriptMetadata>
+  <ScriptName>4_Task_View_Itinerary</ScriptName>
+  <Protocol>Web - HTTP/HTML</Protocol>
+  <ActionFiles>
+    <FileEntry Name="vuser_init.c" Filter="2" />
+    <FileEntry Name="Action.c" Filter="2" />
+    <FileEntry Name="vuser_end.c" Filter="2" />
+  </ActionFiles>
+  <GeneralFiles>
+    <FileEntry Name="4_Task_View_Itinerary.usr" Filter="4" />
+    <FileEntry Name="default.cfg" Filter="4" />
+    <FileEntry Name="default.usp" Filter="4" />
+    <FileEntry Name="4_Task_View_Itinerary.prm" Filter="2" />
+    <FileEntry Name="globals.h" Filter="2" />
+    <FileEntry Name="W:\" Filter="2" />
+    <FileEntry Name="combined_4_Task_View_Itinerary.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="104955029440.idx" Filter="1" />
+    <FileEntry Name="119726653440.idx" Filter="1" />
+    <FileEntry Name="120083782440.idx" Filter="1" />
+    <FileEntry Name="122219117440.idx" Filter="1" />
+    <FileEntry Name="15996197440.idx" Filter="1" />
+    <FileEntry Name="189710339440.idx" Filter="1" />
+    <FileEntry Name="1_Task_Login_Logout.prm.bak" Filter="1" />
+    <FileEntry Name="242150340440.idx" Filter="1" />
+    <FileEntry Name="25196258440.idx" Filter="1" />
+    <FileEntry Name="2_Task_Search.prm.bak" Filter="1" />
+    <FileEntry Name="3_Task_Booking.prm.bak" Filter="1" />
+    <FileEntry Name="4_Task_View_Itinerary.c.pickle" Filter="1" />
+    <FileEntry Name="4_Task_View_Itinerary.ci" Filter="1" />
+    <FileEntry Name="4_Task_View_Itinerary.prm.bak" Filter="1" />
+    <FileEntry Name="4_Task_View_Itinerary.sdf" Filter="1" />
+    <FileEntry Name="6_Pre_Register_for_other_skripts(10 users).prm.bak" Filter="1" />
+    <FileEntry Name="6_Task_Register.prm.bak" Filter="1" />
+    <FileEntry Name="Bookmarks.xml" Filter="1" />
+    <FileEntry Name="Breakpoints.xml" Filter="1" />
+    <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
+    <FileEntry Name="firstName.dat" Filter="1" />
+    <FileEntry Name="logfile.log" Filter="1" />
+    <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrvFIy.399.log" Filter="1" />
+    <FileEntry Name="mdrvPTV.519.log" Filter="1" />
+    <FileEntry Name="mdrvtmL.491.log" Filter="1" />
+    <FileEntry Name="mdrv_cmd.txt" Filter="1" />
+    <FileEntry Name="NewParam.dat" Filter="1" />
+    <FileEntry Name="options.txt" Filter="1" />
+    <FileEntry Name="output.bak" Filter="1" />
+    <FileEntry Name="output.txt" Filter="1" />
+    <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
+    <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
+    <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
+    <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name="data\" Filter="1" />
+    <FileEntry Name="result1\" Filter="1" />
+  </GeneralFiles>
+</VugenScriptMetadata>

@@ -1,0 +1,2 @@
+"username=Sharikov&password=p@ssw0rd&passwordConfirm=p@ssw0rd&firstName=Ivan&lastName=Sharikov&"
+"address1=Leninskiy+prospekt&address2=Moskva&register.x=kg8jg&register.y=kg8jg"

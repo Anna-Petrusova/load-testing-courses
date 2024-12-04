@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IW:\J-meter_and_projects\Loadrunner_proj\scripts_tasks\1_Task_Login_Logout
+-IW:\Program Files (x86)\HPE\LoadRunner\include
+-ew:\j-meter_and_projects\loadrunner_proj\scripts_tasks\1_task_login_logout\\logfile.log
+w:\j-meter_and_projects\loadrunner_proj\scripts_tasks\1_task_login_logout\\combined_1_Task_Login_Logout.c
+w:\j-meter_and_projects\loadrunner_proj\scripts_tasks\1_task_login_logout\\pre_cci.c
