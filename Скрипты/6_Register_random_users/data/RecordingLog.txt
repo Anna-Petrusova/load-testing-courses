@@ -1,0 +1,182 @@
+[API Trapper      ( adc:1900)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\iexplore.exe
+[API Trapper      ( 230: 410)] Recording in 64-bit mode: C:\Program Files\Internet Explorer\IEXPLORE.EXE
+[API Trapper      ( e88:17bc)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\IEXPLORE.EXE
+[Network Analyzer ( e88:14b4)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( e88:14b4)] Load Network Traffic Analyzers:
+[Network Analyzer ( e88:14b4)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer ( e88:14b4)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer ( e88:14b4)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer ( e88:14b4)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer ( e88:14b4)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer ( e88:14b4)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer ( e88:14b4)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( e88:1a48)] Address lookup for WIN-LGKM2CAAG39 = 192.168.0.101
+[Network Analyzer ( e88:14b4)] Address lookup for WIN-LGKM2CAAG39 = 192.168.0.101
+[Network Analyzer ( e88:1814)] Address lookup for WIN-LGKM2CAAG39 = 192.168.0.101
+[Network Analyzer ( e88:14b4)] Request Connection: Remote Server @ 173.194.222.139:80   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer ( e88:1814)] Request Connection: Remote Server @ 173.194.222.139:80   (Service=)  (Sid=  2)  PROXIED!
+[Web Request      ( e88:1a48)] "GET /complete/search?hl=ru&q=lo&client=ie8&inputencoding=UTF-8&outputencoding=UTF-8"   
+[Network Analyzer ( e88:1a48)]   (Sid:  1) Client -> Server @ : 317 bytes (Service=HTTP)
+[Network Analyzer ( e88:1a48)]   (Sid:  1) Server -> Client : 782 bytes  (Service=HTTP)
+[Web Request      ( e88:1a48)] "GET /images/cleardot.gif"   
+[Network Analyzer ( e88:1a48)]   (Sid:  1) Client -> Server @ : 258 bytes (Service=HTTP)
+[Web Request      ( e88:1a48)] "GET /images/cleardot.gif"   
+[Network Analyzer ( e88:1a48)]   (Sid:  2) Client -> Server @ : 258 bytes (Service=HTTP)
+[Network Analyzer ( e88:10e0)] Address lookup for WIN-LGKM2CAAG39 = 192.168.0.101
+[Network Analyzer ( e88:14b4)] Address lookup for WIN-LGKM2CAAG39 = 192.168.0.101
+[Network Analyzer ( e88:1814)] Address lookup for WIN-LGKM2CAAG39 = 192.168.0.101
+[Network Analyzer ( e88:1a48)]   (Sid:  1) Server -> Client : 664 bytes  (Service=HTTP)
+[Web Request      ( e88:1a48)] "GET /images/cleardot.gif"   
+[Network Analyzer ( e88:122c)] Address lookup for WIN-LGKM2CAAG39 = 192.168.0.101
+[Network Analyzer ( e88:1a48)]   (Sid:  1) Client -> Server @ : 258 bytes (Service=HTTP)
+[Network Analyzer ( e88:1a48)]   (Sid:  2) Server -> Client : 664 bytes  (Service=HTTP)
+[Web Request      ( e88:1a48)] "GET /images/cleardot.gif"   
+[Network Analyzer ( e88:1a48)]   (Sid:  2) Client -> Server @ : 258 bytes (Service=HTTP)
+[Network Analyzer ( e88:10e0)] Request Connection: Remote Server @ 173.194.222.139:80   (Service=)  (Sid=  3)  PROXIED!
+[Web Request      ( e88:1a48)] "GET /images/cleardot.gif"   
+[Network Analyzer ( e88:1a48)]   (Sid:  3) Client -> Server @ : 258 bytes (Service=HTTP)
+[Network Analyzer ( e88:14b4)] Request Connection: Remote Server @ 173.194.222.139:80   (Service=)  (Sid=  4)  PROXIED!
+[Web Request      ( e88:1a48)] "GET /images/cleardot.gif"   
+[Network Analyzer ( e88:1a48)]   (Sid:  4) Client -> Server @ : 258 bytes (Service=HTTP)
+[Network Analyzer ( e88:1814)] Request Connection: Remote Server @ 173.194.222.139:80   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer ( e88:1a48)]   (Sid:  1) Server -> Client : 664 bytes  (Service=HTTP)
+[Web Request      ( e88:1a48)] "GET /images/cleardot.gif"   
+[Network Analyzer ( e88:1a48)]   (Sid:  1) Client -> Server @ : 258 bytes (Service=HTTP)
+[Web Request      ( e88:1a48)] "GET /images/cleardot.gif"   
+[Network Analyzer ( e88:1a48)]   (Sid:  5) Client -> Server @ : 258 bytes (Service=HTTP)
+[Network Analyzer ( e88:1a48)]   (Sid:  2) Server -> Client : 664 bytes  (Service=HTTP)
+[Network Analyzer ( e88:122c)] Request Connection: Remote Server @ 173.194.222.139:80   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer ( e88:1a48)]   (Sid:  3) Server -> Client : 664 bytes  (Service=HTTP)
+[Network Analyzer ( e88:1a48)]   (Sid:  4) Server -> Client : 664 bytes  (Service=HTTP)
+[Network Analyzer ( e88:1a48)]   (Sid:  1) Server -> Client : 664 bytes  (Service=HTTP)
+[Network Analyzer ( e88:1a48)]   (Sid:  5) Server -> Client : 664 bytes  (Service=HTTP)
+[API Trapper      (1114: c10)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\IEXPLORE.EXE
+[Network Analyzer (1114: 3a0)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1114: 3a0)] Load Network Traffic Analyzers:
+[Network Analyzer (1114: 3a0)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (1114: 3a0)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer (1114: 3a0)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (1114: 3a0)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer (1114: 3a0)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer (1114: 3a0)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (1114: 3a0)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1114: 91c)] Address lookup for WIN-LGKM2CAAG39 = 192.168.0.101
+[Net An. Warning  (1114: 5a8)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (1114: 3a0)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (1114: 3a0)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (1114: 5a8)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (1114: 5a8)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (1114: 5a8)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (1114: 3a0)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (1114: 3a0)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (1114:11dc)] Address lookup for WIN-LGKM2CAAG39 = 192.168.0.101
+[Network Analyzer (1114: 3a0)] Address lookup for WIN-LGKM2CAAG39 = 192.168.0.101
+[Network Analyzer (1114: 5a8)] Address lookup for WIN-LGKM2CAAG39 = 192.168.0.101
+[Network Analyzer (1114:11dc)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  1)  PROXIED!
+[Web Request      (1114: 91c)] "GET /WebTours/"   
+[Network Analyzer (1114: 91c)]   (Sid:  1) Client -> Server @ : 288 bytes (Service=HTTP)
+[Network Analyzer (1114: 3a0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (1114: 91c)]   (Sid:  1) Server -> Client : 664 bytes  (Service=HTTP)
+[Network Analyzer (1114: 5a8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (1114: 3a0)] Address lookup for WIN-LGKM2CAAG39 = 192.168.0.101
+[Network Analyzer (1114: 3a0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  4)  PROXIED!
+[Web Request      (1114: 91c)] "GET /WebTours/header.html"   
+[Network Analyzer (1114: 91c)]   (Sid:  1) Client -> Server @ : 341 bytes (Service=HTTP)
+[Web Request      (1114: 91c)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer (1114: 91c)]   (Sid:  2) Client -> Server @ : 352 bytes (Service=HTTP)
+[Network Analyzer (1114: 91c)]   (Sid:  1) Server -> Client : 1007 bytes  (Service=HTTP)
+[Network Analyzer (1114: 91c)]   (Sid:  2) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer (1114: 91c)]   (Sid:  2) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (1114: 91c)] "GET /WebTours/images/hp_logo.png"   
+[Network Analyzer (1114: 91c)]   (Sid:  2) Client -> Server @ : 400 bytes (Service=HTTP)
+[Web Request      (1114: 91c)] "GET /WebTours/images/webtours.png"   
+[Network Analyzer (1114: 91c)]   (Sid:  1) Client -> Server @ : 401 bytes (Service=HTTP)
+[Network Analyzer (1114: 91c)]   (Sid:  1) Server -> Client : 4486 bytes  (Service=HTTP)
+[Network Analyzer (1114: 91c)]   (Sid:  2) Server -> Client : 898 bytes  (Service=HTTP)
+[Web Request      (1114: 91c)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (1114: 91c)]   (Sid:  2) Client -> Server @ : 393 bytes (Service=HTTP)
+[Web Request      (1114: 91c)] "GET /WebTours/home.html"   
+[Network Analyzer (1114: 91c)]   (Sid:  1) Client -> Server @ : 389 bytes (Service=HTTP)
+[Network Analyzer (1114: 91c)]   (Sid:  1) Server -> Client : 1659 bytes  (Service=HTTP)
+[Network Analyzer (1114: 91c)]   (Sid:  2) Server -> Client : 1748 bytes  (Service=HTTP)
+[Network Analyzer (1114: 91c)]   (Sid:  2) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (1114: 91c)] "GET /WebTours/images/mer_login.gif"   
+[Network Analyzer (1114: 91c)]   (Sid:  2) Client -> Server @ : 404 bytes (Service=HTTP)
+[Network Analyzer (1114: 91c)]   (Sid:  2) Server -> Client : 976 bytes  (Service=HTTP)
+[Web Request      (1114: 91c)] "GET /favicon.ico"   
+[Network Analyzer (1114: 91c)]   (Sid:  2) Client -> Server @ : 231 bytes (Service=HTTP)
+[Network Analyzer (1114: 91c)]   (Sid:  2) Server -> Client : 424 bytes  (Service=HTTP)
+[Web Request      (1114: 91c)] "GET /cgi-bin/login.pl?username=&password=&getInfo=true"   
+[Network Analyzer (1114: 91c)]   (Sid:  2) Client -> Server @ : 407 bytes (Service=HTTP)
+[Network Analyzer (1114: 91c)]   (Sid:  2) Server -> Client : 2664 bytes  (Service=HTTP)
+[Network Analyzer (1114: 91c)]   (Sid:  2) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (1114: 91c)] "GET /WebTours/profileValidate.js"   
+[Network Analyzer (1114: 91c)]   (Sid:  2) Client -> Server @ : 401 bytes (Service=HTTP)
+[Web Request      (1114: 91c)] "GET /WebTours/images/button_next.gif"   
+[Network Analyzer (1114: 91c)]   (Sid:  1) Client -> Server @ : 433 bytes (Service=HTTP)
+[Network Analyzer (1114: 91c)]   (Sid:  1) Server -> Client : 1055 bytes  (Service=HTTP)
+[Network Analyzer (1114: 91c)]   (Sid:  2) Server -> Client : 11601 bytes  (Service=HTTP)
+[Network Analyzer (1114: 91c)]   (Sid:  1) Connection Terminated (by Server)
+[Network Analyzer (1114: 91c)]   (Sid:  2) Connection Terminated (by Server)
+[Network Analyzer (1114: c94)] Address lookup for WIN-LGKM2CAAG39 = 192.168.0.101
+[Network Analyzer (1114: 91c)]   (Sid:  3) Connection Terminated (by Client)
+[Network Analyzer (1114: 91c)]   (Sid:  4) Connection Terminated (by Client)
+[Network Analyzer (1114: c94)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  5)  PROXIED!
+[Web Request      (1114: 91c)] "POST /cgi-bin/login.pl"   
+[Network Analyzer (1114: 91c)]   (Sid:  5) Client -> Server @ : 638 bytes (Service=HTTP)
+[Network Analyzer (1114: 91c)]   (Sid:  5) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (1114: 91c)]   (Sid:  5) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (1114: 91c)] "GET /cgi-bin/welcome.pl?page=menus"   
+[Network Analyzer (1114: 91c)]   (Sid:  5) Client -> Server @ : 503 bytes (Service=HTTP)
+[Network Analyzer (1114: 91c)]   (Sid:  5) Server -> Client : 818 bytes  (Service=HTTP)
+[Network Analyzer (1114: 91c)]   (Sid:  5) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (1114: 91c)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer (1114: 91c)]   (Sid:  5) Client -> Server @ : 519 bytes (Service=HTTP)
+[Network Analyzer (1114: c94)] Address lookup for WIN-LGKM2CAAG39 = 192.168.0.101
+[Network Analyzer (1114: c94)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (1114: 91c)]   (Sid:  5) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (1114: 91c)]   (Sid:  5) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (1114: 91c)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer (1114: 91c)]   (Sid:  6) Client -> Server @ : 514 bytes (Service=HTTP)
+[Web Request      (1114: 91c)] "GET /WebTours/images/flights.gif"   
+[Network Analyzer (1114: 91c)]   (Sid:  5) Client -> Server @ : 530 bytes (Service=HTTP)
+[Network Analyzer (1114: 3a0)] Address lookup for WIN-LGKM2CAAG39 = 192.168.0.101
+[Network Analyzer (1114: 3a0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (1114: 5a8)] Address lookup for WIN-LGKM2CAAG39 = 192.168.0.101
+[Network Analyzer (1114: c94)] Address lookup for WIN-LGKM2CAAG39 = 192.168.0.101
+[Web Request      (1114: 91c)] "GET /WebTours/images/itinerary.gif"   
+[Network Analyzer (1114: 91c)]   (Sid:  7) Client -> Server @ : 532 bytes (Service=HTTP)
+[Network Analyzer (1114: 5a8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (1114: 91c)]   (Sid:  7) Server -> Client : 1031 bytes  (Service=HTTP)
+[Network Analyzer (1114: c94)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  9)  PROXIED!
+[Web Request      (1114: 91c)] "GET /WebTours/images/signoff.gif"   
+[Network Analyzer (1114: 91c)]   (Sid:  8) Client -> Server @ : 530 bytes (Service=HTTP)
+[Web Request      (1114: 91c)] "GET /WebTours/images/in_home.gif"   
+[Network Analyzer (1114: 91c)]   (Sid:  7) Client -> Server @ : 530 bytes (Service=HTTP)
+[Network Analyzer (1114: 91c)]   (Sid:  5) Server -> Client : 1023 bytes  (Service=HTTP)
+[Network Analyzer (1114: 91c)]   (Sid:  8) Server -> Client : 1049 bytes  (Service=HTTP)
+[Network Analyzer (1114: 91c)]   (Sid:  7) Server -> Client : 985 bytes  (Service=HTTP)
+[Network Analyzer (1114: 91c)]   (Sid:  6) Server -> Client : 1155 bytes  (Service=HTTP)
+[Network Analyzer (1114: 91c)]   (Sid:  6) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (1114: 91c)]   (Sid:  5) Connection Terminated (by Server)
+[Network Analyzer (1114: 91c)]   (Sid:  7) Connection Terminated (by Server)
+[Network Analyzer (1114: 91c)]   (Sid:  8) Connection Terminated (by Server)
+[Network Analyzer (1114: 91c)]   (Sid:  6) Connection Terminated (by Server)
+[Network Analyzer (1114: 91c)]   (Sid:  9) Connection Terminated (by Client)
+[Network Analyzer (1114: 3a0)] Address lookup for WIN-LGKM2CAAG39 = 192.168.0.101
+[Network Analyzer (1114: 3a0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 10)  PROXIED!
+[Web Request      (1114: 91c)] "GET /cgi-bin/welcome.pl?signOff=1"   
+[Network Analyzer (1114: 91c)]   (Sid: 10) Client -> Server @ : 518 bytes (Service=HTTP)
+[Network Analyzer (1114: 91c)]   (Sid: 10) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer (1114: 91c)]   (Sid: 10) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (1114: 91c)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (1114: 91c)]   (Sid: 10) Client -> Server @ : 390 bytes (Service=HTTP)
+[Network Analyzer (1114: 3a0)] Address lookup for WIN-LGKM2CAAG39 = 192.168.0.101
+[Network Analyzer (1114: 3a0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (1114: 91c)]   (Sid: 10) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (1114: 91c)]   (Sid: 10) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (1114: 91c)] "GET /WebTours/home.html"   
+[Network Analyzer (1114: 91c)]   (Sid: 11) Client -> Server @ : 486 bytes (Service=HTTP)
+[Network Analyzer (1114: 91c)]   (Sid: 11) Server -> Client : 194 bytes  (Service=HTTP)
+[Network Analyzer (1114: 91c)]   (Sid: 11) Connection Terminated (by Server)
+[Network Analyzer (1114: 91c)]   (Sid: 10) Connection Terminated (by Server)
